@@ -1,6 +1,7 @@
-### 👋 Hi there. 
-### 🔭 I’m currently working on Unity tutorial projects. 
-### 🌱 I’m currently learning Unity, Unreal Engine, Japanese, Spanish and Python. 
+### 👋 Hi! I'm Sam.
+### 💻 I have experience with game development experience with Unity, but also some Unreal and Blender.
+### 👷‍♂️I'm looking for Unity work.
+### 🗣️ My pronouns are He/Him.
 
 <!--
 **sunsetworld/sunsetworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
